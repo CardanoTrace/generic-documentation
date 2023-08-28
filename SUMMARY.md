@@ -11,7 +11,7 @@
 ## Fundamentals
 
 * [🛠 Getting strarted](fundamentals/getting-strarted.md)
-* [✨ Our Features](fundamentals/our-features.md)
+* [✨ Our Features](overview/our-features.md)
 
 ## Use Cases
 

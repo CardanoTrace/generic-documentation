@@ -15,13 +15,3 @@ description: >-
 > Trace is a Web3 interface which aims to bring blockchain-based traceability to small producers needing it the most, abating costs and increasing adoption.
 
 <figure><img src=".gitbook/assets/trace_03_typeface_space.svg" alt="" width="188"><figcaption></figcaption></figure>
-
-## Quick links
-
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/our-features.md" %}
-[our-features.md](fundamentals/our-features.md)
-{% endcontent-ref %}
