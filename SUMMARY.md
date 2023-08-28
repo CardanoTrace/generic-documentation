@@ -4,7 +4,8 @@
 
 ## Overview
 
-* [💡 What is Trace](overview/what-is-trace.md)
+* [💡 What is Trace](overview/what-we-do.md)
+* [✍ Catalyst Proposal](overview/catalyst-proposal.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Fundamentals

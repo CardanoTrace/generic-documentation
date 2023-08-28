@@ -18,8 +18,8 @@ description: >-
 
 ## Quick links
 
-{% content-ref url="overview/what-is-trace.md" %}
-[what-is-trace.md](overview/what-is-trace.md)
+{% content-ref url="overview/what-we-do.md" %}
+[what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/our-features.md" %}
