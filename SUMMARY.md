@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 What is Trace](overview/what-is-trace.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Fundamentals
