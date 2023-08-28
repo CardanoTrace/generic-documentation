@@ -6,11 +6,12 @@
 
 * [💡 What is Trace](overview/what-we-do.md)
 * [✍ Catalyst Proposal](overview/catalyst-proposal.md)
-* [✨ Our Features](overview/our-features.md)
+* [👩🎓 New Scope](overview/new-scope.md)
 
 ## Fundamentals
 
 * [🛠 Getting strarted](fundamentals/getting-strarted.md)
+* [✨ Our Features](fundamentals/our-features.md)
 
 ## Use Cases
 
