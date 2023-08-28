@@ -12,7 +12,9 @@ description: >-
 
 ## Overview
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Trace is a Web3 interface which aims to bring blockchain-based traceability to small producers needing it the most, abating costs and increasing adoption.
+
+<figure><img src=".gitbook/assets/trace_03_typeface_space.svg" alt="" width="188"><figcaption></figcaption></figure>
 
 ## Quick links
 
