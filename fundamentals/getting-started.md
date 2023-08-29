@@ -1,8 +1,19 @@
 ---
 description: Step-by-step guide for Producers wanting to use Trace
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 🛠 Getting strarted
+# 🛠 Getting started
 
 <details>
 
