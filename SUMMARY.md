@@ -10,7 +10,7 @@
 
 ## Fundamentals
 
-* [🛠 Getting strarted](fundamentals/getting-strarted.md)
+* [🛠 Getting started](fundamentals/getting-started.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Use Cases
