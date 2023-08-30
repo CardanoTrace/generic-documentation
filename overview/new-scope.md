@@ -16,11 +16,13 @@ This effectively left Trace with no Developer and made it necessary to restructu
 
 ## Contact with Drasil
 
-WIP
+As SPO of RABIT and member of various organisations in the Cardano Ecosystem, I have had the privilege of meeting many capable and enthusiastic people. Among these, the minds behind [Drasil](https://drasil.io) shine for their dedication to the bettering of Cardano and adoption of blockchain technology.\
+\
+Together with the Drasil Team, Trace will see further development and deliver on its commitment to the Cardano Community.&#x20;
 
 ## The Wajenzi
 
-WIP
+[Wajenzi](https://www.canva.com/design/DAFYsOB\_K\_w/jo4UceR-DXYXA7glaOLuHQ/view) (Swahili for _builders_) is a Drasil initiative for the empowering of future software engineers of the Global South.  As part of this new collaboration, Trace will be a practical project ..... WIP&#x20;
 
 ## Development and Exploration
 
