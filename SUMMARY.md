@@ -17,7 +17,3 @@
 
 * [🍅 For Producers](use-cases/for-producers.md)
 * [🍕 For Consumers](use-cases/for-consumers.md)
-
-***
-
-* [TEST](test.md)
