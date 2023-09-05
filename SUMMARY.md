@@ -4,14 +4,14 @@
 
 ## Overview
 
-* [💡 What is Trace](overview/what-we-do.md)
+* [💡 What is Trace](overview/what-is-trace.md)
 * [✍ Catalyst Proposal](overview/catalyst-proposal.md)
 * [👩🎓 New Scope](overview/new-scope.md)
 
 ## Fundamentals
 
 * [🛠 Getting started](fundamentals/getting-started.md)
-* [✨ Our Features](overview/our-features.md)
+* [✨ Our Features](fundamentals/our-features.md)
 
 ## Use Cases
 
