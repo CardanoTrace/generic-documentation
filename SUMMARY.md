@@ -5,7 +5,7 @@
 ## Overview
 
 * [▶ Trace in 30 seconds](overview/trace-in-30-seconds.md)
-* [✍ Catalyst Proposal](overview/catalyst-proposal.md)
+* [✍ Catalyst Funding](overview/catalyst-funding.md)
 * [👩🎓 New Scope](overview/new-scope.md)
 
 ## Fundamentals
