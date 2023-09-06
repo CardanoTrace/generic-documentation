@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [💡 What is Trace](overview/what-is-trace.md)
+* [▶ Trace in 30 seconds](overview/trace-in-30-seconds.md)
 * [✍ Catalyst Proposal](overview/catalyst-proposal.md)
 * [👩🎓 New Scope](overview/new-scope.md)
 

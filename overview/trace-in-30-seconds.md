@@ -1,4 +1,4 @@
-# 💡 What is Trace
+# ▶ Trace in 30 seconds
 
 ## Video overview
 
