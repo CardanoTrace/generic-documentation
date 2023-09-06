@@ -9,7 +9,7 @@ description: >-
 ## What is Catalyst?
 
 {% hint style="info" %}
-For more information on Catalyst, how it works and how to get involved, please see [Projectcatalyst.io](https://projectcatalyst.io/) or check out the 2 minute video below  👇&#x20;
+For more information on Catalyst, how it works and how to get involved, please see [Projectcatalyst.io](https://projectcatalyst.io/) and check out the 2 minute video below  👇&#x20;
 {% endhint %}
 
 {% embed url="https://youtu.be/gFuTGXthqQI" %}
@@ -27,8 +27,6 @@ For detailed budget information, including all actual incoming and outgoing tran
 <details>
 
 <summary>Finances of the project</summary>
-
-
 
 Amount request and granted by Catalyst: **USD 34620**
 
