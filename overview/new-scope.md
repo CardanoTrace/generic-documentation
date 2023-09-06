@@ -6,7 +6,15 @@ description: >-
 
 # 👩🎓 New Scope
 
-## Delays in development
+<div align="right" data-full-width="false">
+
+<figure><img src="../.gitbook/assets/delays_694x533.jpg" alt="" width="347"><figcaption></figcaption></figure>
+
+</div>
+
+<details>
+
+<summary>Delays in development</summary>
 
 The first few months of the project (May-July 2022) saw a good amount of work done on the codebase, as can be seen on Trace's [GitHub](https://github.com/CardanoTrace). Following initial enthusiasm, development slowed down, as a result of family-related commitments for the Project Coordinator. \
 \
@@ -14,17 +22,39 @@ As months went by, the Lead Developer started taking on more diverse and engagin
 \
 This effectively left Trace with no Developer and made it necessary to restructure and rethink the whole Project. &#x20;
 
-## Contact with Drasil
+</details>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/contact.jpg" alt="" width="347"><figcaption></figcaption></figure>
+
+</div>
+
+<details>
+
+<summary>Contact with Drasil</summary>
 
 As SPO of [RABIT](https://rabbitholepools.io) and member of various organisations in the Cardano Ecosystem, our [Project Steward](https://it.linkedin.com/in/stefano-r-montanari-00710376) had the privilege of meeting many capable and enthusiastic people. Among these, the minds behind [Drasil](https://drasil.io) shine for their dedication to the bettering of Cardano and adoption of blockchain technology.\
 \
 Together with the Drasil Team, Trace will see further development and deliver on its commitment to the Cardano Community.&#x20;
 
-## The Wajenzi
+</details>
+
+<div align="right">
+
+<figure><img src="../.gitbook/assets/BUILDERS.jpg" alt="" width="347"><figcaption></figcaption></figure>
+
+</div>
+
+<details>
+
+<summary>The Wajenzi</summary>
 
 [Wajenzi](https://www.canva.com/design/DAFYsOB\_K\_w/jo4UceR-DXYXA7glaOLuHQ/view) (Swahili for _builders_) is a Drasil initiative for the empowerment of future software engineers of the Global South.  The first Wajenzi cohort consists of 5 interns from South Africa, Nigeria and Poland and is well underway in self-paced learning, under guidance of our [Lead Developer](https://ke.linkedin.com/in/ezra-okenda).
 
 Training is in partnership with [Gimbalabs](https://www.gimbalabs.com/gimbalgrid), with all trainees participating in the [PPBL (Plutus Project Based Learning)](https://www.gimbalabs.com/pbl/plutus) course as a mandatory element.  Traineeship may take up to six months, and consists of support for self-structured learning around blockchain development, programming and specific projects.
+
+</details>
 
 ## Development and Exploration
 
