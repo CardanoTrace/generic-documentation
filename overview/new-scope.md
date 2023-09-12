@@ -56,7 +56,15 @@ Training is in partnership with [Gimbalabs](https://www.gimbalabs.com/gimbalgrid
 
 </details>
 
-## Development and Exploration
+<div align="left">
+
+<figure><img src="../.gitbook/assets/ef7a92a08d6ebcbff8a0f95196f927c3.png" alt="" width="347"><figcaption></figcaption></figure>
+
+</div>
+
+<details>
+
+<summary>Development and Exploration</summary>
 
 As part of this new collaboration, **Trace will be presented to the Wajenzi as a real-world Cardano Project**, to put their newly-acquired skills to the test: in essence a practical component of their training. Every step will be carefully documented, with generic (here) and technical documentation, always keeping the Interns in mind. This will provide the Wajenzi with the tools to see a software project to launch, **following Exploratory and Development Steps**:
 
@@ -65,8 +73,21 @@ As part of this new collaboration, **Trace will be presented to the Wajenzi as a
 * Development and Testing
 * Production
 
-## Future directions&#x20;
+</details>
+
+<div align="right">
+
+<figure><img src="../.gitbook/assets/Crossroads_21661.jpeg" alt="" width="347"><figcaption></figcaption></figure>
+
+</div>
+
+<details>
+
+<summary>Future directions</summary>
 
 Funding for Trace will allow the project to launch on Cardano's Testnet. Depending on Community feedback and potential collaborations with other entities, Trace might continue its journey toward Mainnet and see further functionality added.\
 \
 We have many exciting ideas, and we hope the Community will help us see some of them realised. &#x20;
+
+</details>
+
