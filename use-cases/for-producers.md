@@ -48,21 +48,25 @@ This is beneficial to customers as well, because a blockchain-verified story is 
 
 </details>
 
+<details>
 
+<summary><strong>Tracing in space and time</strong> <span data-gb-custom-inline data-tag="emoji" data-code="1f680">🚀</span></summary>
 
+Story-tracking has another benefit for Ann and her customer relationships: her wine bottles can be followed in space and time.
 
+If customers have a concern about one of her bottles, she can know in real-time which one, where it was purchased and when.
 
-**Benefit - tracing in space and time**
+This makes Ann's life a lot easier if she needs to recall a product, compared to today's systems.
 
-The above story-tracking has another benefit for Ann and her relationship with Joe: her wine bottles can be followed in space and time.
+</details>
 
-If Joe has a concern about one of her bottles, she can know in real-time which one, where it was purchased and when.
+<details>
 
-This makes Ann's life a lot easier if she needs to recall a product, compared to today's systems. This makes Joe happier too, because he can get a quick response to his issue, directly from Ann. 😀\
+<summary><strong>Incentivise customers to engage with your products</strong> <span data-gb-custom-inline data-tag="emoji" data-code="1f911">🤑</span></summary>
 
+QR-codes are everywhere these days, and Ann wants to encourage customers to scan hers.
 
-**Benefit - incentivize customers to engage with your products**
+On Cardano, Ann can think of creative ways to incentivise customers: for example by offering collectible NFTs, maybe specific to the vintage of one of her wines. NFTs can be traded for ADA or collected, building customer loyalty.&#x20;
 
-Joe is not very keen to scan QR Codes. Today, there is little Ann can do to resolve this issue.
+</details>
 
-On Cardano, Ann can think of creative ways to incentivize Joe to do so: for example by offering Joe a collectible NFT, which could be specific to the vintage of one of her wines. Joe could trade these NFTs with his friends or exchange them for ADA on Cardano. He could also choose to try to collect them all, and become more affectionate to Ann's wines. ❤️
