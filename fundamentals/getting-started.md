@@ -15,6 +15,7 @@ layout:
 
 # 🛠 Getting started
 
+{% hint style="info" %} Tip: Although not mandatory, we recommend using [Brave Browser](https://brave.com/download/) for best-in-class online privacy. All examples in this guide are Brave-based. {% endhint %}
 <details>
 
 <summary>Step1: Create a Cardano Wallet</summary>
