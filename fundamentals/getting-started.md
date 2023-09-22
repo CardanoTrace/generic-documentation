@@ -15,13 +15,15 @@ layout:
 
 # 🛠 Getting started
 
+{% hint style="info" %}
 **Tip:** Although not mandatory, we recommend using **Brave Browser** for best-in-class online privacy. All examples in this guide are Brave-based.
+{% endhint %}
 
 {% embed url="https://brave.com/download/" %}
 
 ## Step1: Add Eternl to your browser
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Eternl** is a Cardano light **wallet**, which is available as a browser extension.&#x20;
 {% endhint %}
 
