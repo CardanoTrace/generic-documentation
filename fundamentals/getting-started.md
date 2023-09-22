@@ -15,9 +15,7 @@ layout:
 
 # 🛠 Getting started
 
-{% hint style="info" %}
 **Tip:** Although not mandatory, we recommend using **Brave Browser** for best-in-class online privacy. All examples in this guide are Brave-based.
-{% endhint %}
 
 {% embed url="https://brave.com/download/" %}
 
@@ -47,29 +45,11 @@ Add Eternl to your browser:
 
 </div>
 
-<details>
+## Step 2: Create a new wallet&#x20;
 
-<summary>Step 2: Create a new wallet </summary>
+## Step 3: Connect your wallet to Trace
 
-WIP
-
-</details>
-
-<details>
-
-<summary>Step 3: Connect your wallet to Trace</summary>
-
-WIP
-
-</details>
-
-<details>
-
-<summary>Step 4: Mint your Producer NFT</summary>
-
-WIP
-
-</details>
+## Step 4: Mint your Producer NFT
 
 ## Step 5: Enter Producer Zone and start Tracing
 
