@@ -21,19 +21,11 @@ layout:
 
 ## Step1: Add Eternl to your browser
 
-**Eternl** is a Cardano light **wallet**, which is available as a browser extension. Click [here](https://chrome.google.com/webstore/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka) to open the Chrome Web Store and add it to your browser.&#x20;
+{% hint style="info" %}
+**Eternl** is a Cardano light **wallet**, which is available as a browser extension.&#x20;
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/web_store01.PNG" alt="" width="563"><figcaption><p>Your Chrome Web Store page should look something like this.</p></figcaption></figure>
-
-Search for "Eternl" in the search box to the left:
-
-<figure><img src="../.gitbook/assets/web_store02.PNG" alt="" width="563"><figcaption></figcaption></figure>
-
-Open the Eternl page:
-
-<figure><img src="../.gitbook/assets/web_store03.PNG" alt="" width="563"><figcaption></figcaption></figure>
-
-Add Eternl to your browser:
+Click [here](https://chrome.google.com/webstore/detail/eternl/kmhcihpebfmpgmihbkipmjlmmioameka) to open the Chrome Web Store and add it to your browser:
 
 <div data-full-width="false">
 
