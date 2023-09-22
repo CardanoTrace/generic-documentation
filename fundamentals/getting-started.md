@@ -19,11 +19,13 @@ layout:
 **Tip:** Although not mandatory, we recommend using **Brave Browser** for best-in-class online privacy. All examples in this guide are Brave-based.
 {% endhint %}
 
+{% embed url="https://brave.com/download/" %}
+
 <details>
 
 <summary>Step1: Create a Cardano Wallet</summary>
 
-WIP
+
 
 </details>
 
