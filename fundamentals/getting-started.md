@@ -75,7 +75,13 @@ Click **Create Wallet**:
 
 ## Step 3: Connect your wallet to Trace
 
+**WIP:** The platform's functionality is being completed and tested. Documentation will follow shortly. &#x20;
+
 ## Step 4: Mint your Producer NFT
 
+**WIP:** The platform's functionality is being completed and tested. Documentation will follow shortly.
+
 ## Step 5: Enter Producer Zone and start Tracing
+
+**WIP:** The platform's functionality is being completed and tested. Documentation will follow shortly.
 
