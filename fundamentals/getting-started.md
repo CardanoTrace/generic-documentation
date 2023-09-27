@@ -69,6 +69,16 @@ Click **Create Wallet**:
 
 <figure><img src="../.gitbook/assets/eternl05.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
+Choose a **name** to identify your wallet and a **strong password**:
+
+<figure><img src="../.gitbook/assets/eternl06.PNG" alt="" width="563"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+**Please note:** Your wallet name and password are only stored locally. If you were to loose access to your wallet, the **recovery phrase** (see below) is the only means to recover your wallet. If you need to do this, you will be prompted for a new name and password. &#x20;
+{% endhint %}
+
+
+
 {% hint style="danger" %}
 **Before you proceed**: the next step is **Absolutely Private** (like your PINs and Passwords). Make sure you guard your 24-word phrase like you would your valuables, and always keep it **offline**.&#x20;
 {% endhint %}
