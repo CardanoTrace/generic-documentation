@@ -51,8 +51,18 @@ Choose a **name** to identify your wallet and a **strong password**:
 **Please note:** Your wallet name and password are only stored locally. If you were to loose access to your wallet, the **recovery phrase** (see below) is the only means to recover your wallet. If you need to do this, you will be prompted for a new name and password. &#x20;
 {% endhint %}
 
+We will only need one **Account** for the time being. Please click **Save**:
 
+<figure><img src="../../.gitbook/assets/eternl07.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-**Before you proceed**: the next step is **Absolutely Private** (like your PINs and Passwords). Make sure you guard your 24-word phrase like you would your valuables, and always keep it **offline**.&#x20;
+**Before you proceed**: From this point onward **follow the onscreen instructions to the letter**. Please make sure you understand what the **recovery phrase** is for, and how to best **keep it safe**.
 {% endhint %}
+
+{% hint style="info" %}
+**Tip:** Store your mnemonic on **paper** (a notebook that you will not loose): make 3 copies and keep them in at least 2 separate _physical_ locations.
+{% endhint %}
+
+**Acknowledge** that nobody can see your screen and click **continue:**
+
+<figure><img src="../../.gitbook/assets/eternl08.PNG" alt="" width="563"><figcaption></figcaption></figure>
