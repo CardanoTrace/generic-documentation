@@ -22,3 +22,7 @@
 
 * [🍅 For Producers](use-cases/for-producers.md)
 * [🍕 For Consumers](use-cases/for-consumers.md)
+
+## FURTHER INFORMATION
+
+* [💰 Funding a Cardano Testnet Wallet](further-information/funding-a-cardano-testnet-wallet.md)

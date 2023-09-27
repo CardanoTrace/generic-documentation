@@ -66,3 +66,9 @@ We will only need one **Account** for the time being. Please click **Save**:
 **Acknowledge** that nobody can see your screen and click **continue:**
 
 <figure><img src="../../.gitbook/assets/eternl08.PNG" alt="" width="563"><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+**Success:** You have written down and checked you 24-word **recovery phrase**. :partying\_face:&#x20;
+
+Your wallet is now **ready to be funded**. Please follow [these steps](../../further-information/funding-a-cardano-testnet-wallet.md) to get some funds!
+{% endhint %}
