@@ -10,7 +10,12 @@
 
 ## Fundamentals
 
-* [🛠 Getting started](fundamentals/getting-started.md)
+* [🛠 Getting started](fundamentals/getting-started/README.md)
+  * [🧩 1: Add Eternl to your browser](fundamentals/getting-started/eternl-extension.md)
+  * [👛 2: Create a new wallet](fundamentals/getting-started/new-wallet.md)
+  * [↔ 3: Connect your wallet to Trace](fundamentals/getting-started/3-connect-your-wallet-to-trace.md)
+  * [🪙 4: Mint your Producer NFT](fundamentals/getting-started/4-mint-your-producer-nft.md)
+  * [🔓 5: Enter Producer Zone and start Tracing](fundamentals/getting-started/5-enter-producer-zone-and-start-tracing.md)
 * [✨ Our Features](fundamentals/our-features.md)
 
 ## Use Cases
