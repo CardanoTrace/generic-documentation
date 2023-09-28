@@ -25,5 +25,5 @@
 
 ## FURTHER INFORMATION
 
-* [💰 Funding a Cardano Testnet Wallet](further-information/funding-a-cardano-testnet-wallet/README.md)
-  * [🤝 Delegating to a Stake Pool](further-information/funding-a-cardano-testnet-wallet/delegating-to-a-stake-pool.md)
+* [💰 Funding a Cardano Testnet Wallet](further-information/funding-a-cardano-testnet-wallet.md)
+* [🤝 Delegating to a Stake Pool](further-information/delegating-to-a-stake-pool.md)

@@ -70,5 +70,5 @@ We will only need one **Account** for the time being. Please click **Save**:
 {% hint style="success" %}
 **Success:** You have written down and checked you 24-word **recovery phrase**. :partying\_face:&#x20;
 
-Your wallet is now **ready to be funded**. Please follow [these steps](../../further-information/funding-a-cardano-testnet-wallet/) to get some funds!
+Your wallet is now **ready to be funded**. Please follow [these steps](../../further-information/funding-a-cardano-testnet-wallet.md) to get some funds!
 {% endhint %}
