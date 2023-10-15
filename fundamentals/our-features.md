@@ -1,17 +1,27 @@
 # ✨ Our Features
 
 {% hint style="info" %}
-**Note:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#x20;
+**Please note:** This feature list is being populated as the platform develops. Changes may be dictated by development constraints, but most importantly will shape based on **Community Feedback**.  &#x20;
 {% endhint %}
 
-## WIP
+## For Producers
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Producers will have access to a dedicated minting service, through which they will be **minting their Company NFTs**. NFTs minted this way will contain Company Information and logos. An intuitive UI will allow Producers to upload their Company logos which will be permanently stored on IPFS, through automatically generated links.&#x20;
 
-![](https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxhcHB8ZW58MHx8fHwxNjYwNTgzMzQz\&ixlib=rb-1.2.1\&q=80)
+![](<../.gitbook/assets/Screenshot from 2023-10-15 12-51-59.png>)
 
-## WIP
+Company NFTs will allow access to a Producer Dashboard, where companies will be able to enter information regarding their products. Each product and batch will correspond to a QR code to follow the product in the physical world, and a product NFT to give it a digital identity.&#x20;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<figure><img src="../.gitbook/assets/digital-identity-ICT-applications.png" alt=""><figcaption></figcaption></figure>
 
-![](https://images.unsplash.com/photo-1569144157591-c60f3f82f137?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxmZWF0dXJlfGVufDB8fHx8MTY2MDU4MzM1OQ\&ixlib=rb-1.2.1\&q=80)
+## For Consumers
+
+Consumers will have access, through a QR Code, to a dynamically generated product page. These pages will enable a direct Producer-Consumer interaction, as well as Social Media information sharing.&#x20;
+
+Future developments may include the ability to keep track of QR Code scans through Web3-enabled wallets.&#x20;
+
+![](<../.gitbook/assets/Screenshot from 2023-10-15 12-41-38.png>)
+
+{% hint style="danger" %}
+**WIP**
+{% endhint %}
