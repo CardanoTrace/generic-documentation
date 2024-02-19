@@ -21,7 +21,3 @@ Consumers will have access, through a QR Code, to a dynamically generated produc
 Future developments may include the ability to keep track of QR Code scans through Web3-enabled wallets.&#x20;
 
 ![](<../.gitbook/assets/Screenshot from 2023-10-15 12-41-38.png>)
-
-{% hint style="danger" %}
-**WIP**
-{% endhint %}
