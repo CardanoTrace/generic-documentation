@@ -21,7 +21,7 @@
 ## Use Cases
 
 * [🍅 For Producers](use-cases/for-producers.md)
-* [🍕 For Consumers](use-cases/for-consumers.md)
+* [🍕 For Consumers](use-cases/for-producers-1.md)
 
 ## FURTHER INFORMATION
 
