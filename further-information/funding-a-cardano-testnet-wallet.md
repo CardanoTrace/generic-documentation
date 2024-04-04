@@ -10,7 +10,7 @@ description: >-
 **Please note:** tADA tokens you receive from the Faucet should be returned to the address provided on the Faucet page when you are done using them. &#x20;
 {% endhint %}
 
-Navigate to the Testnets Faucet on [this page](https://docs.cardano.org/cardano-testnet/tools/faucet/) to request some funds for your wallet:&#x20;
+Navigate to the Testnets Faucet on [this page](https://docs.cardano.org/cardano-testnets/tools/faucet) to request some funds for your wallet:&#x20;
 
 <figure><img src="../.gitbook/assets/faucet01.png" alt="" width="563"><figcaption></figcaption></figure>
 
