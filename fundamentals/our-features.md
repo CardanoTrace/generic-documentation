@@ -10,7 +10,7 @@ Producers will have access to a dedicated minting service, through which they wi
 
 ![](<../.gitbook/assets/Screenshot from 2023-10-15 12-51-59.png>)
 
-Company NFTs will allow access to a Producer Dashboard, where companies will be able to enter information regarding their products. Each product and batch will correspond to a QR code to follow the product in the physical world, and a product NFT to give it a digital identity.&#x20;
+Company NFTs will allow access to a Producer Dashboard, where companies will be able to enter information regarding their products. Each product and batch will correspond to a QR code to follow the product in the physical world, and product metadata will be written on-chain.&#x20;
 
 <figure><img src="../.gitbook/assets/digital-identity-ICT-applications.png" alt=""><figcaption></figcaption></figure>
 
