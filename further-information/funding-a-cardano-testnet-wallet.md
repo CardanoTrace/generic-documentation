@@ -43,5 +43,5 @@ Go back to **Eternl**. Your funds (10,000 tADA) should be credited shortly:
 <figure><img src="../.gitbook/assets/eternl12.PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-You are now ready to [connect your funded wallet to Trace](../fundamentals/getting-started/3-connect-your-wallet-to-trace.md) and start using the app :tada:&#x20;
+You are now ready to [connect your funded wallet to Trace](../introduction/getting-started/3-connect-your-wallet-to-trace.md) and start using the app :tada:&#x20;
 {% endhint %}

@@ -6,28 +6,34 @@ description: >-
 
 # 👋 Welcome to Trace
 
-## Overview
+{% embed url="https://www.youtube.com/watch?v=8TqxorGzjzA" %}
 
-> Trace is a Web3 interface which aims to bring blockchain-based traceability to small producers needing it the most, abating costs and increasing adoption.
+## What is Trace?
+
+> Trace is an easy-to-use application which brings blockchain-based traceability to everyone's reach. No technical knowledge is required: follow the steps in this documentation and start tracing your products with the latest technology!&#x20;
 
 <figure><img src=".gitbook/assets/trace_03_typeface_space.svg" alt="" width="188"><figcaption></figcaption></figure>
 
-## Meet the Team
+## What can I do with Trace?
 
-<div>
-
-<figure><img src=".gitbook/assets/drasil (2).PNG" alt="" width="455"><figcaption><p>Zak - Drasil CEO</p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/ezra (2).PNG" alt="" width="454"><figcaption><p>Ezra - Blockchain Developer</p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/stef (2).PNG" alt="" width="452"><figcaption><p>Stef - Cardano SPO </p></figcaption></figure>
-
-</div>
+> Are you an artisan? Are you an SME or large manufacturer? Are you a small agribusiness? \
+> \
+> No matter how big or small your business is, Trace provides an intuitive app for tracing your products from producer to consumer. \
+> \
+> With Trace, you'll first create your Company Profile, represented by an NFT on the Cardano Blockchain. \
+> \
+> Once your Company Profile is created, you'll have access to a Producer zone, to enter information about your products and generate QR codes for them. The QR codes are for the physical world, but product metadata will also be written on the blockchain.\
+> \
+> The advantages over traditional product-tracing solutions are many, let's see some of them:
+>
+> 1. Blockchain guarantees the safety of your product data, as you enter it;
+> 2. Cardano is a Public Blockchain, so your product data can be independently verified;
+> 3. The costs associated with writing data to Cardano are extremely low;
+> 4. Cardano is highly decentralised, so your data are not controlled by anyone, no middleman;
+> 5. Modern blockchains offer a unique way of interacting with your customers, directly and in a creative way! \
+>    \
+>
 
 {% hint style="info" %}
-**Please note:** Trace is in the early stages of development, and so is this documentation. We endeavour to progress coding and docs together, so watch this space as it evolves.&#x20;
+**Please note:** Trace is in the early stages of development, and is currently only available for  Pre-Production testing. Testing is completely free and has the added benefit of allowing you to send us feedback for future features you may want added to Trace.  &#x20;
 {% endhint %}
