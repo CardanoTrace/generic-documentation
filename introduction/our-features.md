@@ -16,8 +16,8 @@ Company NFTs will allow access to a Producer Dashboard, where companies will be 
 
 ## For Consumers
 
-Consumers will have access, through a QR Code, to a dynamically generated product page. These pages will enable a direct Producer-Consumer interaction, as well as Social Media information sharing.&#x20;
+Consumers will have access, through a QR Code, to a dynamically generated product page. These pages will enable a direct Producer-Consumer interaction: Consumers can independently verify the source and truthful nature of the product information, coming directly from the Producer.&#x20;
 
-Future developments may include the ability to keep track of QR Code scans through Web3-enabled wallets.&#x20;
+
 
 ![](<../.gitbook/assets/Screenshot from 2023-10-15 12-41-38.png>)
