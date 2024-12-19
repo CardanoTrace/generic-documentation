@@ -34,7 +34,7 @@ This effectively left Trace with no Developer and made it necessary to restructu
 
 <summary>Contact with Drasil</summary>
 
-As SPO of [RABIT](https://rabbitholepools.io) and member of various organisations in the Cardano Ecosystem, our [Project Steward](https://it.linkedin.com/in/stefano-r-montanari-00710376) had the privilege of meeting many capable and enthusiastic people. Among these, the minds behind [Drasil](https://drasil.io) shine for their dedication to the bettering of Cardano and adoption of blockchain technology.\
+As SPO of [RABIT](https://rabbitholepools.io) and member of various organisations in the Cardano Ecosystem, our Project Steward had the privilege of meeting many capable and enthusiastic people. Among these, the minds behind [Drasil](https://drasil.io) shine for their dedication to the bettering of Cardano and adoption of blockchain technology.\
 \
 Together with the Drasil Team, Trace will see further development and deliver on its commitment to the Cardano Community.&#x20;
 
@@ -50,7 +50,7 @@ Together with the Drasil Team, Trace will see further development and deliver on
 
 <summary>The Wajenzi</summary>
 
-[Wajenzi](https://www.canva.com/design/DAFYsOB\_K\_w/jo4UceR-DXYXA7glaOLuHQ/view) (Swahili for _builders_) is a Drasil initiative for the empowerment of blockchain developers in the Global South.  The first Wajenzi cohort consists of 5 interns from South Africa, Nigeria and Poland and is well underway in self-paced learning, under guidance of our [Lead Developer](https://ke.linkedin.com/in/ezra-okenda).
+[Wajenzi](https://www.canva.com/design/DAFYsOB\_K\_w/jo4UceR-DXYXA7glaOLuHQ/view) (Swahili for _builders_) is a Drasil initiative for the empowerment of blockchain developers in the Global South.  The first Wajenzi cohort consists of 5 interns from South Africa, Nigeria and Poland and is well underway in self-paced learning, under guidance of our Lead Developer.
 
 Training is in partnership with [Gimbalabs](https://www.gimbalabs.com/gimbalgrid), with all trainees participating in the [PPBL (Plutus Project Based Learning)](https://www.gimbalabs.com/pbl/plutus) course as a mandatory element.  Traineeship may take up to six months, and consists of support for self-structured learning around blockchain development, programming and specific projects.
 
